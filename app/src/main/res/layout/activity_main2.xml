@@ -58,7 +58,7 @@
         app:layout_constraintHorizontal_bias="0.582"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/whatsapp"
-        app:layout_constraintVertical_bias="0.1" />
+        app:layout_constraintVertical_bias="0.238" />
 
     <Button
         android:id="@+id/linkedin"
@@ -68,10 +68,10 @@
         android:text="Linkedin"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.808"
+        app:layout_constraintHorizontal_bias="0.818"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.249" />
+        app:layout_constraintVertical_bias="0.216" />
 
     <Button
         android:id="@+id/whatsapp"
@@ -81,8 +81,8 @@
         android:text="Whatsapp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.523"
+        app:layout_constraintHorizontal_bias="0.547"
         app:layout_constraintStart_toEndOf="@+id/imageView2"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.361" />
+        app:layout_constraintVertical_bias="0.317" />
 </androidx.constraintlayout.widget.ConstraintLayout>

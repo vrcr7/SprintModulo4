@@ -15,6 +15,7 @@
         android:text="Enviar un correo"
         android:visibility="visible"
         tools:text="Enviar un correo"
-        tools:visibility="visible" />
+        tools:visibility="visible"
+        android:orientation="vertical"/>
 
 </FrameLayout>
